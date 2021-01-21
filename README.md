@@ -6,7 +6,9 @@ You can also zip, upload and extract to any Hosting Platforms.
 
 A simple SMTP Bulk Email sender written in php for Sendgrid users.
 Simply open the sendgrid.php file and replace 'API-KEY' with yours i.e the one generated from your SendGrid Account.
-When uploading email contacts, do ensure that the emails are separated with commas only. 
+When uploading email contacts, do ensure that the emails are separated with commas only.
+
+Take a look at screenshot.
 
 NO SPACES.
 Enjoy 👌
