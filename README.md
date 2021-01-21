@@ -12,6 +12,6 @@ Enjoy 👌
 Maybe i might be willing to improve the interface if i have the time
 
 
-You can change how many mails are sent per second in main.js on line 51 (multiemail, 1000) - one per second for example
+You can change how many mails are sent per second in main.js on line 51 (multi_email, 1000) - one per second for example
 
 Still need more details, or want to request a video? - jthurpe@gmail.com 
