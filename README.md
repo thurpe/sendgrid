@@ -1,4 +1,5 @@
 # sendgrid
+phpmailer for sendgrid, related
 
 Open with localhost/sendgrid in Xampp, Wamp or related app.
 You can also zip, upload and extract to any Hosting Platforms.
